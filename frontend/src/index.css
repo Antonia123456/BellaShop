@@ -12,11 +12,19 @@ body {
 main {
   flex: 1;
 }
+.btn-primary {
+  background-color: rgb(163, 219, 219);
+  color: rgb(7, 8, 8);
+}
 .products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
+.rating span {
+  color: #c059d0;
+}
+
 .product {
   border: 1px #404040 solid;
   margin: 1rem;
