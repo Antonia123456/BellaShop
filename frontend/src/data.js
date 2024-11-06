@@ -3,7 +3,7 @@ const data = {
     {
       name: 'Nike shirt',
       slug: 'nike-shirt',
-      category: 'Shirts',
+      category: 'Tops',
       image: '/images/p1.jpg',
       price: 120,
       countInStock: 10,
@@ -15,7 +15,7 @@ const data = {
     {
       name: 'Adidas shirt',
       slug: 'adidas-shirt',
-      category: 'Shirts',
+      category: 'Tops',
       image: '/images/p2.jpg',
       price: 200,
       countInStock: 20,
